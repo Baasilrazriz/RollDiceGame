@@ -1,0 +1,85 @@
+body{
+margin: 0px;
+}
+header
+{
+margin-top: -1.3rem;
+background-color: rgb(41, 38, 36);
+
+height: 4rem;
+width: 100%;
+}
+header h1
+{
+    padding-top: 0.75rem;
+    color:white;
+    text-align:center
+}
+.main
+{
+    padding: 5rem  15rem 0 15rem;
+    height: 40.1rem;
+    background-color: rgb(86, 84, 83);
+}
+.main .content
+{
+    display: flex;
+    height: 36rem;
+
+}
+.main .content .bg1
+{
+    background-color: green;
+    height: 100%;
+    width: 100%;
+}
+ .image1 img
+{
+    margin-top: 3rem;
+    margin-left: 4rem;
+ 
+    height: 25rem;
+    width: 25rem;
+    
+}
+.main .content .bg2
+{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+.image2 img
+{
+    margin-top: 3rem;
+    margin-left: 4rem;
+ 
+    height: 25rem;
+    width: 25rem;
+    
+}
+.bg1 #select
+{
+    margin-top: 1rem;
+    height: 2rem;
+    width: 7rem;
+    font:bold;
+    font-size: large;
+    
+}
+.selectimg
+{
+    margin-top: 1rem;
+    height: 2rem;
+    width: 7rem;
+    font:bold;
+    font-size: large;
+padding-left: 4rem ;
+padding-right: 11rem ;
+}
+#download
+{
+    height: 2rem;
+    width: 7rem;
+    margin-left: 13rem ;
+    margin-top: 1rem;
+}
